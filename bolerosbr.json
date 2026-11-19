@@ -1,4 +1,10 @@
 [
-{"id":1,"artist":"Dino Fonseca","title":"DINO - Always São Paulo Sessions Vol. JÁ NO","genero":"Music","src":"DINO_-_Always_Sao_Paulo_Sessions_Vol._JA_NO_Dino_Fonseca.mp3"},
-{"id":2,"artist":"Sing It","title":"Smooth Operator Sade Classic Reimagined Performance","genero":"Music","src":"Smoo._Oper._Sde_Clas._Reim._Perf_Sing_It.mp3"}
+{"id":1,"artist":"Alcides Gerardi","title":"Adoração","genero":"BOLEROS BR","src":"alcidesgerardi_adoracao.mp3"},
+{"id":2,"artist":"Anísio Silva","title":"Alguém Me Disse","genero":"BOLEROS BR","src":"anisiosilva_alguemmedisse.mp3"},
+{"id":3,"artist":"Anísio Silva","title":"Devolva-Me","genero":"BOLEROS BR","src":"anisiosilva_devolvame.mp3"},
+{"id":4,"artist":"Anísio Silva","title":"Minha Renúncia","genero":"BOLEROS BR","src":"anisiosilva_minharenuncia.mp3"},
+{"id":5,"artist":"Ângela Maria","title":"Tango Pra Tereza","genero":"BOLEROS BR","src":"angelamaria_tangopratereza.mp3"},
+{"id":6,"artist":"Carlos Alberto","title":"Aquece","genero":"BOLEROS BR","src":"carlosalberto_aquece.mp3"},
+{"id":7,"artist":"Alcides Gerardi","title":"Enquanto o Tempo Passa","genero":"BOLEROS BR","src":"alcidesgerardi_enquantootempopassa.mp3"},
+{"id":8,"artist":"Anísio Silva","title":"Onde Estás Agora","genero":"BOLEROS BR","src":"anisiosilva_ondeestasagora.mp3"}
 ]
