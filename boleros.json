@@ -1,4 +1,18 @@
 [
-{"id":1,"artist":"Dino Fonseca","title":"DINO - Always São Paulo Sessions Vol. JÁ NO","genero":"Music","src":"DINO_-_Always_Sao_Paulo_Sessions_Vol._JA_NO_Dino_Fonseca.mp3"},
-{"id":2,"artist":"Sing It","title":"Smooth Operator Sade Classic Reimagined Performance","genero":"Music","src":"Smoo._Oper._Sde_Clas._Reim._Perf_Sing_It.mp3"}
+{"id":1,"artist":"Carlos Cuevas","title":"Página Blanca","genero":"BOLEROS  LA","src":"paginablanca_carloscuevas.mp3"},
+{"id":2,"artist":"Danny Frank","title":"Quién Será","genero":"BOLEROS  LA","src":"dannyfrank_quiensera.mp3"},
+{"id":3,"artist":"Carlos Cuevas","title":"Tres Regalos","genero":"BOLEROS  LA","src":"carloscuevas_tresregalos.mp3"},
+{"id":4,"artist":"Trío Los Elegantes","title":"Cenizas","genero":"BOLEROS  LA","src":"trioloselegantes_cenizas.mp3"},
+{"id":5,"artist":"Encore","title":"Quizás Quizás Quizásbésame Mucho","genero":"BOLEROS  LA","src":"encore_quizasquizasquizasbesamemucho.mp3"},
+{"id":6,"artist":"Jorge Muñiz","title":"Nomás Contigo","genero":"BOLEROS  LA","src":"jorgemuniz_nomascontigo.mp3"},
+{"id":7,"artist":"Jorge Muñiz","title":"Nomás Contigo","genero":"BOLEROS  LA","src":"jorgemuniz_nomascontigo.mp3"},
+{"id":8,"artist":"Jorge Muñiz","title":"Peleas","genero":"BOLEROS  LA","src":"jorgemuniz_peleas.mp3"},
+{"id":9,"artist":"Julio Iglesias Thalia","title":"Quién Será Fan","genero":"BOLEROS  LA","src":"julioiglesiasthalia_quienserafan.mp3"},
+{"id":10,"artist":"Kika Edgar","title":"Toda Una Vida","genero":"BOLEROS  LA","src":"kikaedgar_todaunavida.mp3"},
+{"id":11,"artist":"Luiz Miguel","title":"La Barca","genero":"BOLEROS  LA","src":"luizmiguel_labarca.mp3"},
+{"id":12,"artist":"Mauricio Manieri Chico Castillo","title":"Medley Gipsy Kings","genero":"BOLEROS  LA","src":"mauriciomanierichicocastillo_medleygipsy.mp3"},
+{"id":13,"artist":"Vdb","title":"Pressentimento","genero":"BOLEROS  LA","src":"vdb_pressentimento.mp3"},
+{"id":14,"artist":"Yuri Feat. Mijares Emmanuel","title":"Para Amarnos Más Toda La Vida","genero":"BOLEROS  LA","src":"yurifeatmijaresemmanuel_praamarnosmastod.mp3"},
+{"id":15,"artist":"Yuri Lucero","title":"Llorar","genero":"BOLEROS  LA","src":"yurilucero_llorar.mp3"},
+{"id":16,"artist":"Yuri Nio García","title":"Todo El Año","genero":"BOLEROS  LA","src":"yuriniogarcia_todoelano.mp3"}
 ]
