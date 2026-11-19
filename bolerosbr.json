@@ -6,5 +6,21 @@
 {"id":5,"artist":"Ângela Maria","title":"Tango Pra Tereza","genero":"BOLEROS BR","src":"angelamaria_tangopratereza.mp3"},
 {"id":6,"artist":"Carlos Alberto","title":"Aquece","genero":"BOLEROS BR","src":"carlosalberto_aquece.mp3"},
 {"id":7,"artist":"Alcides Gerardi","title":"Enquanto o Tempo Passa","genero":"BOLEROS BR","src":"alcidesgerardi_enquantootempopassa.mp3"},
-{"id":8,"artist":"Anísio Silva","title":"Onde Estás Agora","genero":"BOLEROS BR","src":"anisiosilva_ondeestasagora.mp3"}
+{"id":8,"artist":"Anísio Silva","title":"Onde Estás Agora","genero":"BOLEROS BR","src":"anisiosilva_ondeestasagora.mp3"},
+ {"id":9,"artist":"Trio Irakitan","title":"Negue","genero":"Music","src":"trioirakitan_negue.mp3"},
+{"id":10,"artist":"Anísio Silva","title":"Sonhando Contigo","genero":"Music","src":"anisiosilva_sonhandocontigo.mp3"},
+{"id":11,"artist":"Trio Irakitan","title":"Sonhar Contigo","genero":"Music","src":"trioirakitan_sonharcontigo.mp3"},
+{"id":12,"artist":"Trio Irakitan","title":"Ah Como Eu Amei","genero":"Music","src":"trioirakitan_ahcomoeuamei.mp3"},
+{"id":13,"artist":"Trio Irakitan","title":"Aparências","genero":"Music","src":"trioirakitan_aparencias.mp3"},
+{"id":14,"artist":"Trio Irakitan","title":"Às Vezes Tu Às Vezes Eu","genero":"Music","src":"trioirakitan_asvezestuasvezeseu.mp3"},
+{"id":15,"artist":"Elymar Santos","title":"Negue Pensando em Ti Ninguém É de Ninguém","genero":"Music","src":"elymarsantos_neguepensaemtininguemningue.mp3"},
+{"id":16,"artist":"Trio Irakitan","title":"História de Um Amor","genero":"Music","src":"trioirakitan_historiaumamor.mp3"},
+{"id":17,"artist":"Núbia Lafayette","title":"Fracasso","genero":"Music","src":"nubialafayette_fracasso.mp3"},
+{"id":18,"artist":"Núbia Lafayette","title":"Lama","genero":"Music","src":"nubialafayette_lama.mp3"},
+{"id":19,"artist":"Lindomar Castilnho","title":"o Bebum","genero":"Music","src":"lindomarcastilnho_obebum.mp3"},
+{"id":20,"artist":"Trio Irakitan","title":"o Relógio","genero":"Music","src":"trioirakitan_orelogio.mp3"},
+{"id":21,"artist":"Trio Irakitan","title":"Perfidia","genero":"Music","src":"trioirakitan_perfidia.mp3"},
+{"id":22,"artist":"Desconhecido","title":"Que Pena","genero":"Music","src":"desconhecido_quepena.mp3"},
+{"id":23,"artist":"Altemar Dutra","title":"Que Queres Tu de Mim","genero":"Music","src":"altemardutra_quequerestumim.mp3"},
+{"id":24,"artist":"Valdik Soriano","title":"Tortura de Amor","genero":"Music","src":"valdiksoriano_torturaamor.mp3"} 
 ]
